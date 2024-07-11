@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OCR</string>
+        <string-array name="language_options">
+            <item>English</item>
+            <item>Spanish</item>
+            <item>French</item>
+            <item>German</item>
+            <item>Japanese</item>
+            <item>Russian</item>
+            <!-- Add more language options as needed -->
+        </string-array>
+
+        <string-array name="language_codes">
+            <item>en</item>
+            <item>es</item>
+            <item>fr</item>
+            <item>de</item>
+            <item>ja</item>
+            <item>ru</item>
+            <!-- Add more language codes as needed -->
+        </string-array>
+</resources>
